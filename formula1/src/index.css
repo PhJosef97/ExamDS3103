@@ -1,0 +1,109 @@
+img {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+html, body {
+    text-align: center;
+    background-image: url('public/images/pexels-adrien-gambet-17047682.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.quiz-image {
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.option {
+    font-size: 1.5em;
+    margin-bottom: 1em; 
+}
+
+.block {
+    display: block;
+}
+
+/*
+kilder til styling:
+https://account.formula1.com/#/en/register?redirect=https%3A%2F%2Fwww.formula1.com%2Fen%2Fdrivers.html&lead_source=web_f1core
+*/
+@media (max-width: 992px) {
+.f1-account-site {
+    padding-top: 30px;
+}
+
+
+}
+.form-group-sm .form-control {
+    height: 50px;
+    padding: 20px 10px;
+    font-size: 20px;
+    line-height: 1.5;
+    border-radius: 3px
+}
+
+
+article {
+    background-color: #4B4B4B;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.f1-account-site .site-content {
+    max-width: 640px;
+    margin: auto;
+}
+
+.site-content {
+    padding: 20px;
+}
+
+.card {
+    background-color: #C4C4C4
+}
+
+#registration-form .panel-body {
+    padding: 20px;
+    line-height: 1.42857143;
+    color: #333;
+    font-family: "Titillium Web";
+    font-size: 17px;
+    letter-spacing: .2px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.name-input {
+    margin-bottom: 20px;
+}
+
+
+.text-capitalize {
+    text-transform: capitalize;
+}
+html {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+
+

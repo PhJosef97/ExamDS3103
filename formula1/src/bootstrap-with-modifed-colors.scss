@@ -1,0 +1,15 @@
+$theme-colors: (
+    "primary": #007bff,
+    "secondary": #6c757d,
+    "success": #28a745,
+    "info": #17a2b8,
+    "warning": #ffc107,
+    "danger": #dc3545,
+    "light": #f8faf9,
+    "dark": #343a40,
+    "fun": #ff00ff,
+    "custom": rgba(78, 236, 104, 0.745)
+    );
+    
+
+    @import "../node_modules/bootstrap/scss/bootstrap.scss"
