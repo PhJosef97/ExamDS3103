@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\IMG_3505.JPG",
+      "PackagePath": "staticwebassets\\images\\IMG_3505.JPG"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\alonso.webp",
+      "PackagePath": "staticwebassets\\images\\alonso.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\hamilton.webp",
+      "PackagePath": "staticwebassets\\images\\hamilton.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\norris.webp",
+      "PackagePath": "staticwebassets\\images\\norris.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\perez.webp",
+      "PackagePath": "staticwebassets\\images\\perez.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\sainz.webp",
+      "PackagePath": "staticwebassets\\images\\sainz.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\images\\verstappen.webp",
+      "PackagePath": "staticwebassets\\images\\verstappen.webp"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\scripts\\index.js",
+      "PackagePath": "staticwebassets\\scripts\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\scripts\\modules\\InfoModule.js",
+      "PackagePath": "staticwebassets\\scripts\\modules\\InfoModule.js"
+    },
+    {
+      "Id": "C:\\Users\\josef\\Desktop\\EKSAMEN-WEB\\Formula1API\\wwwroot\\scripts\\service\\DriverSerivce.js",
+      "PackagePath": "staticwebassets\\scripts\\service\\DriverSerivce.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Formula1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Formula1API.props",
+      "PackagePath": "build\\Formula1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Formula1API.props",
+      "PackagePath": "buildMultiTargeting\\Formula1API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Formula1API.props",
+      "PackagePath": "buildTransitive\\Formula1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
